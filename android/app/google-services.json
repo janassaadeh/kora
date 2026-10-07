@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "568736312947",
+    "project_id": "kora-ai-3fb9d",
+    "storage_bucket": "kora-ai-3fb9d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568736312947:android:4fbc440f92640611d10406",
+        "android_client_info": {
+          "package_name": "com.example.kora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568736312947-ehcplm8euhk3eq0o1fop07rs7sp9nl3b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kora",
+            "certificate_hash": "b052b8cf14b9470749db418a98499d79ae3c6740"
+          }
+        },
+        {
+          "client_id": "568736312947-gaifb9svlscnan43sb9j1kr41cf7vces.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL5i4Lg0Iqb3NH3jg6xKOjm7dYlmKuX24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568736312947-gaifb9svlscnan43sb9j1kr41cf7vces.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "568736312947-qo068m68g1ui3vum3nufdb1lle0spgo5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kora"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
