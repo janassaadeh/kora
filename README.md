@@ -30,9 +30,9 @@ Its speech-emotion recognition pipeline runs **on-device** through TensorFlow Li
 
 ## 📸 Application Screenshots
 
-| Dashboard | Analysis | Results |
+| Dashboard | Analytics | Results |
 |:---:|:---:|:---:|
-| <img src="screenshots/home.jpg" width="240" alt="Kora AI Dashboard"> | <img src="screenshots/analysis.jpg" width="240" alt="Kora AI Analysis"> | <img src="screenshots/results.jpg" width="240" alt="Kora AI Results"> |
+| <img src="screenshots/home.jpg" width="240" alt="Kora AI Dashboard"> | <img src="screenshots/analytics.jpg" width="240" alt="Kora AI Analysis"> | <img src="screenshots/results.jpg" width="240" alt="Kora AI Results"> |
 
 
 
