@@ -28,9 +28,9 @@ Its speech-emotion recognition pipeline runs **on-device** through TensorFlow Li
 ▶️ **[Watch the full Kora AI demo on YouTube](https://youtu.be/5kfD7rmvgtA?si=5DRV73hu4cTpiN2E)**
 
 
-![Kora AI Dashboard](screenshots/home.png)
-![Kora AI Analysis](screenshots/analysis.png)
-![Kora AI Results](screenshots/results.png)
+![Kora AI Dashboard](screenshots/home.jpg)
+![Kora AI Analysis](screenshots/analysis.jpg)
+![Kora AI Results](screenshots/results.jpg)
 
 
 ## 🚀 Highlights
