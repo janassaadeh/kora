@@ -128,10 +128,6 @@ flutter run
 
 Kora AI's voice emotion inference is designed to execute locally rather than uploading audio to a remote model for prediction. Other app services (such as Firebase) may process their respective data; on-device inference should not be understood as a claim that the entire application is offline or that all user information remains on-device.
 
-## 🎓 Academic & Professional Background
-
-- **INTALIO:** Flutter Mobile Developer internship, February–September 2026.
-- **Lebanese University:** Master 2 in Web Development, 2025–2026; Kora AI thesis, evaluated at **81/100**.
 
 This project combines practical mobile engineering, edge ML integration, and applied academic work.
 
